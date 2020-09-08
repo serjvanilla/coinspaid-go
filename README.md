@@ -1,7 +1,7 @@
 # coinspaid-go #
 Go client library for accessing [CoinsPaid API v2](https://docs.coinspaid.com/docs/api-documentation/api-reference).
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/serjvanilla/coinspaid-go)](https://pkg.go.dev/github.com/serjvanilla/coinspaid-go)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/serjvanilla/coinspaid-go/coinspaid)](https://pkg.go.dev/github.com/serjvanilla/coinspaid-go/coinspaid)
 
 ## Usage ##
 ```go
